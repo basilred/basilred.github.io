@@ -26,3 +26,20 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+.Vasya {
+    font-size: 20px;
+    line-height: 27px;
+}
+
+.Vasya__name {
+    font-size: 2em;
+    font-weight: bolder;
+    margin-right: 0.5em;
+}
+
+.Vasya__position {
+    font-size: 0.8em;
+    text-transform: uppercase;
+    color: rgba(0, 0, 0, .6);
+}
